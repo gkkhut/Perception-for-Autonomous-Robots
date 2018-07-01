@@ -1,0 +1,1 @@
+Instert the images in the stereo folder of the Oxford_dataset before running the code.
